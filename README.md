@@ -6,14 +6,14 @@
   <a href="https://albmoss.pl"><strong>albmoss.pl</strong></a>
 </p>
 
+<br>
+
 <h3><img src="./search.svg" width="26" height="26" alt=""> Too many job tabs open?</h3>
 <p>
   <a href="https://github.com/albmoss/job-finder"><strong>Job Finder</strong></a> collects Polish job listings and ranks them against a CV.<br>
   <em>Less scrolling. More deciding.</em>
 </p>
 <p><code>Python</code> · <code>Playwright</code> · <code>Gemini API</code></p>
-
-<br>
 
 <h3 align="right">Wait, what does that word mean? <img src="./translate.svg" width="26" height="26" alt=""></h3>
 <p align="right">
@@ -22,11 +22,11 @@
 </p>
 <p align="right"><code>JavaScript</code> · <code>Chrome extension</code></p>
 
-<br>
-
 <h3><img src="./shop.svg" width="26" height="26" alt=""> I also built a shop. No, you can't buy anything.</h3>
 <p>
   <a href="https://github.com/albmoss/yabba-shop"><strong>Yabba Shop</strong></a> has filters, a cart, checkout and pretend package tracking.<br>
   <em>All the clicking. None of the spending.</em>
 </p>
 <p><code>HTML</code> · <code>CSS</code> · <code>JavaScript</code> &nbsp; <a href="https://albmoss.github.io/yabba-shop/">Window shopping →</a></p>
+
+<br>
